@@ -77,7 +77,7 @@ import leagcy from "./leagcy.png";
 import mancity from "./mancity.jpg";
 import liverpool from "./liverpool.jpg";
 import paris from "./Paris.jpg";
-import barcelona from "./barcelona.jpg";
+import barcelona from "./Barcelona.jpg";
 import realmadrid from "./realmadrid.jpg";
 import acmilan from "./acmilan.jpeg";
 import nike from "./nike.png";
