@@ -1,0 +1,26 @@
+# Node
+node_modules/
+
+# Environment / secrets
+.env
+*.env
+.env.*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System crap
+.DS_Store
+Thumbs.db
+
+# Build artifacts (if you ever build)
+dist/
+build/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
